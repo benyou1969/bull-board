@@ -35,8 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benyou1969/bull-board.git",
-    "directory": "packages/nestjs"
+    "url": "git+https://github.com/benyou1969/bull-board.git"
   },
   "publishConfig": {
     "access": "public"
