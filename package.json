@@ -1,6 +1,6 @@
 {
   "name": "bull-board-nestjs-module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A NestJS module for Bull-Board dashboard.",
   "main": "dist/index.js",
   "license": "MIT",
